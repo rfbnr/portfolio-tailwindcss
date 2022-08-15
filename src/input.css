@@ -2,9 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-/* body {
-    font-family: "Poppins", sans-serif
-} */
+body {
+    font-family: "Inter", sans-serif;
+}
 
 .navbar-fixed {
     @apply fixed z-[999] bg-white bg-opacity-70;
